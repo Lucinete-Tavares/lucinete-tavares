@@ -1,1 +1,1 @@
-![Linguagens](https://img.shields.io/badge/languages--Deeppink.svg)
+![Linguagens](https://img.shields.io/badge/languages--blue.svg)
