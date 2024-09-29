@@ -1,0 +1,24 @@
+name: Generate Language Starts
+
+on:
+  push:
+    branches:
+      - main
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Chekout
+        uses: actions/checkout@v2
+
+      - name: Create Language Badge
+        run: |
+          echo "![Linguagens](https://img.shields.io/badge/languages-${{ github.event.repository.language }}-blue.svg)" > badge.md
+
+      - name: Commit badge
+        run: |
+          git config --local user.email "you@example.com"
+          git config --local user.name "Your Name"
+          git add badge.md
+          git commit -m "Atualizar badge de linguagens"
+          git push
