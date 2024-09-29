@@ -26,4 +26,4 @@
 </div>
 <br>
 
-![snake animation](https://github.com/Lucinete-Tavares/Lucinete-Tavares/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com.Lucinete-Tavares/Lucinete-Tavares/blob/output/github-contribuition-grid-snake2.svg)
