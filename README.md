@@ -5,8 +5,8 @@
 <p align="center">With a curious eye and a creative mind, I began to explore the infinite curiosities of the world of programming. My journey into this universe began with an old PC, and it didn't take long for me to simply fall in love. I dedicate some of my time to learning about the latest innovations and seeking knowledge. I believe that technology can transform lives and although I'm still a beginner, I dream of one day being able to contribute, whether by developing an app, website or simply helping other people discover the power of technology.</p>
 <br>
 <div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Lucinete-Tavares&theme=radical&mode=weekly"/>
-  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Lucinete-Tavares&show_icons=true&theme=radical&layout=compact"/>
+  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Lucinete-Tavares&theme=radical&mode=weekly"/>
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucinete-Tavares&layout=compact&langs_count=6&theme=radical"/>
 </div>
 <br>
 <p align="center"><strong>Skills</strong></p>
