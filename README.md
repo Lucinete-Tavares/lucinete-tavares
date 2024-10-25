@@ -1,16 +1,20 @@
 <p align="center"><b>Welcome to Lucinete Tavares' profile</b></p>
 
 ---
+
 <br>
-<p align="center">With a curious eye and a creative mind, I began to explore the infinite curiosities of the world of programming. My journey into this universe began with an old PC, and it didn't take long for me to simply fall in love. I dedicate some of my time to learning about the latest innovations and seeking knowledge. I believe that technology can transform lives and although I'm still a beginner, I dream of one day being able to contribute, whether by developing an app, website or simply helping other people discover the power of technology.</p>
+<div align="center">
+   <p align="center">With a curious eye and a creative mind, I began to explore the infinite curiosities of the world of programming. My journey into this universe began with an old PC, and it didn't take long for me to simply fall in love. I dedicate some of my time to learning about the latest innovations and seeking knowledge. I believe that technology can transform lives and although I'm still a beginner, I dream of one day being able to contribute, whether by developing an app, website or simply helping other people discover the power of technology.</p>
+</div>
 <br>
 <div align="center">
    <a href="https://github.com/Lucinete-Tavares">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucinete-Tavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucinete-Tavares&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lucinete-Tavares&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 <br>
-<p align="center"><b>Skills</b></p>
+<p align="center"><b>I'm learning</b></p>
 
 ---
 <br>
@@ -33,4 +37,4 @@
 <p align="center"><b>GitHub Activity</b></p>
 
 ---
-   ![snake](https://github.com/Lucinete-Tavares/Lucinete-Tavares/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Lucinete-Tavares/Lucinete-Tavares/blob/output/github-contribution-grid-snake.svg)
