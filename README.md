@@ -4,7 +4,7 @@
 
    ![License](https://img.shields.io/badge/license-MIT-66CDAA.svg)
    ![Version](https://img.shields.io/badge/version-1.0.0-F2CB15.svg)
-   ![Release Status](https://img.shields.io/badge/version-1.0.0-2C82B5.svg)
+   ![Release Status](https://img.shields.io/badge/release-v1.0.0-2C82B5.svg)
    ![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)
    ![Maintenance](https://img.shields.io/badge/maintenance-active-orange.svg)
    ![Coverage](https://img.shields.io/badge/coverage-75%25-DA70D6.svg)
