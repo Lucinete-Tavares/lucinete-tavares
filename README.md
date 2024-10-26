@@ -59,5 +59,5 @@
 </div>
 <br>
 <p align="center"><b>GitHub Activity</b></p>
-      
+
    ![Snake animation](https://github.com/Lucinete-Tavares/Lucinete-Tavares/blob/output/github-contribution-grid-snake.svg)
