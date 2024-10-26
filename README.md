@@ -1,9 +1,19 @@
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=0E2F3E&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a>
    <p><b>I'm Lucinete<br>A beginner web developer</b></p>
-   <p align="center" color="#0E2F3EFF">With a curious eye and a creative mind, I began to explore the infinite curiosities of the world of programming. My journey into this universe began with an old PC, and it didn't take long for me to simply fall in love. I dedicate some of my time to learning about the latest innovations and seeking knowledge. I believe that technology can transform lives and although I'm still a beginner, I dream of one day being able to contribute, whether by developing an app, website or simply helping other people discover the power of technology.</p>
+
+   ![License](https://img.shields.io/badge/license-MIT-66CDAA.svg)
+   ![Version](https://img.shields.io/badge/version-1.0.0-F2CB15.svg)
+   ![Release Status](https://img.shields.io/badge/version-1.0.0-2C82B5.svg)
+   ![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+   ![Maintenance](https://img.shields.io/badge/maintenance-active-orange.svg)
+   ![Coverage](https://img.shields.io/badge/coverage-75%25-DA70D6.svg)
+   ![Rating](https://img.shields.io/badge/rating-5%20stars-gold.svg)
+
+   <p align="center">With a curious eye and a creative mind, I began to explore the infinite curiosities of the world of programming. My journey into this universe began with an old PC, and it didn't take long for me to simply fall in love. I dedicate some of my time to learning about the latest innovations and seeking knowledge. I believe that technology can transform lives and although I'm still a beginner, I dream of one day being able to contribute, whether by developing an app, website or simply helping other people discover the power of technology.</p>
 </div>
 <div align="center">
+   <p><b>Statistics and Sequence</b></p>
    <a href="https://github.com/Lucinete-Tavares">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucinete-Tavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucinete-Tavares&layout=compact&langs_count=6&theme=tokyonight"/>
