@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=0E2F3E&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a>
    <p><b>I'm Lucinete<br>A beginner web developer</b></p>
 
    ![License](https://img.shields.io/badge/license-MIT-66CDAA.svg)
