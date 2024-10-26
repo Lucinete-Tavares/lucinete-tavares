@@ -14,7 +14,7 @@
    <p align="center">With a curious eye and a creative mind, I began to explore the infinite curiosities of the world of programming. My journey into this universe began with an old PC, and it didn't take long for me to simply fall in love. I dedicate some of my time to learning about the latest innovations and seeking knowledge. I believe that technology can transform lives and although I'm still a beginner, I dream of one day being able to contribute, whether by developing an app, website or simply helping other people discover the power of technology.</p>
 </div
    
-<div align="center">
+<div>
    <p><b>Statistics and Sequence</b></p>
    <a href="https://github.com/Lucinete-Tavares">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucinete-Tavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
