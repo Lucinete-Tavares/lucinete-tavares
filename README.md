@@ -23,13 +23,13 @@
    <p><b>Statistics and Sequence</b></p>
    <div style="display: flex; justify-content: center;">
       <a href="https://github.com/Lucinete-Tavares">
-         <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=Lucinete-Tavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+         <img width="335px" src="https://github-readme-stats.vercel.app/api?username=Lucinete-Tavares&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
       </a>
       <a href="https://github.com/Lucinete-Tavares">
-         <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucinete-Tavares&layout=compact&langs_count=6&theme=tokyonight"/>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucinete-Tavares&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
       </a>
       <a href="https://git.io/streak-stats">
-         <img height="180em" width="300em" src="https://github-readme-streak-stats.herokuapp.com?user=Lucinete-Tavares&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
+         <img width="353px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucinete-Tavares&theme=tokyonight&hide_border=true" />
       </a>
    </div>
 </div>
